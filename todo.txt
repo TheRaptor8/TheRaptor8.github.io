@@ -1,0 +1,4 @@
+better font
+links all
+add image in table of music section
+Replace naked email with the random like string which kingjith will get in his mail after first submission.
